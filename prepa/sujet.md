@@ -1,4 +1,4 @@
-
+# IA et Edge Computing : traitement du langage efficace, sobre et sans dépendance
 Travaillant récemment sur des projets manipulant des données sensibles, nous avons exploré des approches légères et sobres en ressources pour faire de l’IA localement, sur le poste utilisateur.
 
 Dans cette session, nous verrons que l’utilisation d’un grand modèle de langage n’est pas obligatoire pour de tâches comme extraire des entités, structurer de l’information, classer des documents ou répondre à des questions simples.
