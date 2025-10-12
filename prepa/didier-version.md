@@ -64,7 +64,7 @@ sequenceDiagram
     EndUser ->> LLM: obfsucated Prompt
     LLM -->> EndUser: obfsucated Response
     EndUser ->> Ner: Response de-obfuscation
-    Ner -->> EndUser: Do-obfucated response
+    Ner -->> EndUser: De-obfuscated response
 ```
 
 ### Cas 2: Dans le flux
