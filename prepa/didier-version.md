@@ -47,7 +47,7 @@ Faire une première explication avec le modèle BERT avec un principe de classif
 ## Impactes d'un point de vu architecture [10 minutes]
 
 Un telle séparation permet d'avoir une approche adaptative. Cela permet d'avoir plusieurs étages à savoir un pour 
-la gestion des données sensible et un un pour le traitement du prompt en soit.
+la gestion des données sensible et un pour le traitement du prompt en soit.
 
 ### Cas 1: En tant que service
 
