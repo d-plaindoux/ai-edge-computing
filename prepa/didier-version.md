@@ -20,7 +20,7 @@
 
 ## Etat des lieux [5 minutes]
 
-Utilisation de LLM style ChpaGPT etc. mais avec possiblement des données sensibles:
+Utilisation de LLM style ChapGPT etc. mais avec possiblement des données sensibles:
 - Avocat
 - Medical
 - etc.
@@ -37,7 +37,7 @@ Limitation de l'usage exclusif d'un LLM et exploitation de SLM pour repondre à 
 
 ### Comparaison pro/cons [5 minutes]
 
-Comment un peut modèle de langage peut couvrir un besoin spécifique tout en nécessitant de la mémoire et du CPU 
+Comment un petit modèle de langage peut couvrir un besoin spécifique tout en nécessitant de la mémoire et du CPU 
 raisonnablement ? 
 
 ### Illustration avec BERT [10 minutes]
