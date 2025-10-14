@@ -33,7 +33,8 @@ Définition de "données sensibles" selon la CNIL:
 
 ## Comment y répondre: LLM vs SLM [15 minutes]
 
-Limitation de l'usage exclusif d'un LLM et exploitation de SLM pour repondre à la problèmatique
+Limitation de l'usage exclusif d'un LLM et exploitation de SLM pour repondre à la problèmatique. La frugalité permet
+d'avoir une approche "green-it" comparé aux monstres nécessaire aux LLM actuels.
 
 ### Comparaison pro/cons [5 minutes]
 
