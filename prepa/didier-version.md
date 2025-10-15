@@ -82,7 +82,7 @@ sequenceDiagram
 
     Ner ->> LLM: obfsucated Prompt
     LLM -->> Ner: obfsucated Response
-    Ner -->> EndUser: Do-obfucated response
+    Ner -->> EndUser: Do-obfuscated response
 ```
 
 ### Défis concernant la tracabilité, l'administration [5 minutes]
